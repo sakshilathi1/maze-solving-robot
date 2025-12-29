@@ -201,19 +201,6 @@ The system successfully:
 - **Dynamic Obstacles**: Real-time obstacle detection and replanning
 - **Multiple Robots**: Coordinated multi-robot maze solving
 
-## 👥 Team
-
-- **Sakshi Lathi** - slathi@asu.edu
-- **Anish Birmal** - abirmal@asu.edu
-- **Nitin Kothakonda** - nkothak1@asu.edu
-
-## 📚 References
-
-- RAS545: Robotic Systems 1 - Arizona State University
-- Prof. Mostafa Yourdkhani (Instructor)
-- Rajdeep Adak (Lab In-charge)
-- MathWorks MATLAB Robotics Toolbox Documentation
-
 ---
 
 <div align="center">
